@@ -19,19 +19,19 @@ A comprehensive Power BI project that visualizes sales data including revenue, o
 ## Screenshots
 
 **Dashboard Overview**  
-![Summary](Screenshots/Summary.png)  
+![Summary](screenshots/Summary.png)  
 
 **Product Details**  
-![Product Details](Screenshots/Product_Details.png)  
+![Product Details](screenshots/Product_Details.png)  
 
 **Sorting Example**  
-![Sorting](Screenshots/Sorting.png)  
+![Sorting](screenshots/Sorting.png)  
 
 **Sparkline Visuals**  
-![Sparkline](Screenshots/Sparkline.png)  
+![Sparkline](screenshots/Sparkline.png)  
 
 **Model View**  
-![Model View](Screenshots/Model_View.png)  
+![Model View](screenshots/Model_View.png)  
 
 ---
 
