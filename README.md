@@ -45,5 +45,5 @@ The sample dataset used in this project is located in the `data/` folder.
 ## Usage
 
 1. Open Power BI Desktop.  
-2. Load the `Reports/PowerBI_Report.pbix` file.  
+2. Load the `Sales_Report.pbix` file.  
 3. Explore the visuals and slicers to analyze sales data.
