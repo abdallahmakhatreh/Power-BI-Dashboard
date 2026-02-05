@@ -31,13 +31,14 @@ A comprehensive Power BI project that visualizes sales data including revenue, o
 ![Sparkline](screenshots/Sparkline.png)  
 
 **Model View**  
-![Model View](screenshots/Model_View.png)  
+![Model View](screenshots/Model_View.png)
+
 
 ---
 
 ## Data
 
-The sample dataset used in this project is located in the `Data/` folder.  
+The sample dataset used in this project is located in the `data/` folder.  
 
 ---
 
